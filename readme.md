@@ -5,7 +5,7 @@ Este projeto tem como objetivo simular e controlar investimentos financeiros de 
 ## 🎯 Objetivos de Aprendizagem
 
 - Aplicar cálculos financeiros básicos, como:
-  - Rendimento mensal com base em taxas percentuais;
+  - Rendimento com base em taxas percentuais;
   - Cálculo e simulação de dividendos recebidos.
 - Criar uma ferramenta interativa e personalizada no Excel para controle de investimentos.
 - Praticar a documentação técnica de forma clara e organizada.
