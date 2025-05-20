@@ -24,8 +24,9 @@ Este projeto tem como objetivo simular e controlar investimentos financeiros de 
 
 ```
 📁 excel-com-inteligencia-artificial
-├── 📄 README.md
-├── 📄 excel-com-inteligencia-artificial.pdf
+├── 📁 Criando uma Ferramenta de Controle de Investimentos
+    ├── 📄 README.md
+    ├── 📄 excel-com-inteligencia-artificial.pdf
 ```
 
 📌 **Desenvolvido com foco em aprendizado e prática de Excel**
