@@ -22,8 +22,20 @@ Ao concluir este projeto, você será capaz de:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Microsoft Excel (com uso de fórmulas, validações e navegação por hiperlinks)
+- Microsoft Excel (Online)
 - GitHub (para versionamento e documentação)
+
+## ⚠️ Limitações encontradas
+
+Durante o desenvolvimento do projeto, foi utilizado o **Excel Online**, que possui algumas limitações em comparação à versão para desktop. Entre as principais dificuldades encontradas, destacam-se:
+
+- **Recursos limitados para formatação de gráficos dinâmicos**;
+
+- **Falta de suporte completo para segmentações de dados**;
+
+- **Ausência de algumas funcionalidades importantes para dashboards interativos**, como botões, macros e certos tipos de gráficos avançados.
+
+Essas limitações impactaram diretamente na experiência e no resultado final do projeto, tornando o processo mais desafiador. No entanto, o projeto serviu como um ótimo exercício prático de visualização de dados e planejamento de dashboards com os recursos disponíveis.
 
 ## 📁 Estrutura do Projeto
 
